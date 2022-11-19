@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Person{
+  background-color: indianred;
+  padding: 20px;
+  border-radius: 20px;
+  margin:10px auto;
+
+  width: 50%;
+  color: beige;
+}
